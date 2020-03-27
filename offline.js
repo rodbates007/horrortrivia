@@ -70,7 +70,7 @@
 		"images2/spr_thirdplaceicon-sheet0.png",
 		"images2/spr_secondplaceicon-sheet0.png",
 		"images2/spr_tombstone1-sheet0.png",
-		"images22/spr_tombstone2-sheet0.png",
+		"images2/spr_tombstone2-sheet0.png",
 		"images/spr_tombstone3-sheet0.png",
 		"images2/spr_pumpkin-sheet0.png",
 		"images2/spr_tree1-sheet0.png",
